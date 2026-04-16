@@ -38,6 +38,40 @@ p {
 
 /* Compleate challenge down here */
 
+.yellow-box {
+  background-color: yellow;
+  display: inline-block;
+  width: 24vw;
+  height: 30vh;
+  }
 
+.green-box {
+  background-color: rgb(40, 223, 40);
+  display: inline-block;
+  width: 24vw;
+  height: 30vh;
+}
 
+.blue-box {
+  background-color: blue;
+  display: inline-block;
+  width: 24vw;
+  height: 30vh;
+}
+
+.red-box {
+  background-color: red;
+  display: inline-block;
+ width: 24vw;
+  height: 30vh;
+}
+
+.display {
+  display: inline-block;
+
+}
+
+.navbar{
+  display: flex;
+}
 
